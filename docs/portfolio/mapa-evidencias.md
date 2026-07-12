@@ -25,8 +25,8 @@ El resumen visual aparece cuando JavaScript está disponible. La tabla siguiente
 
 | # | Foco en lenguaje simple | Evidencia mínima | Tipo | Archivo sugerido | Estado |
 |---|---|---|---|---|---|
-| 1 | Entender cómo se trabaja en el curso y dejar el portafolio listo para mostrar evidencia. | link o captura del portafolio; primer commit o cambio visible | Clase + entrada de portafolio | `portfolio/01-primera-entrada.md` | Pendiente |
-| 2 | Mirar un dataset, describir columnas y detectar problemas simples antes de transformar datos. | notebook o reporte EDA; tabla de columnas | Clase + entrada de portafolio | `portfolio/02-eda.md` | Pendiente |
+| 1 | Entender cómo se trabaja en el curso y dejar el portafolio listo para mostrar evidencia. | link o captura del portafolio; primer commit o cambio visible | Clase + entrada de portafolio | `portfolio/01-primera-entrada.md` | Mínimo |
+| 2 | Mirar un dataset, describir columnas y detectar problemas simples antes de transformar datos. | notebook o reporte EDA; tabla de columnas | Clase + entrada de portafolio | `portfolio/02-eda.md` | Mínimo |
 | 3 | Compará Pandas con una herramienta local más escalable sin perder el criterio de validación. | comparación breve; código mínimo ejecutado | Clase + entrada de portafolio | `portfolio/03-procesamiento-escalable.md` | Pendiente |
 | 4 | Unir fuentes sin duplicar o perder registros y escribir el primer contrato de datos. | inventario; join validado | Clase + posible ronda de ranking interno | `portfolio/04-joins-contrato.md` | Pendiente |
 | 5 | Decidir qué hacer con nulos y outliers, y dejar checks que detecten problemas futuros. | pipeline de limpieza; checks antes/después | Clase + entrada de portafolio | `portfolio/05-calidad.md` | Pendiente |
